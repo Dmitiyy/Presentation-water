@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "dependencies": {
-    "reveal.js": "^4.0.2"
+    "reveal.js": "^4.3.0"
   },
   "devDependencies": {
     "webpack": "^4.44.1",
